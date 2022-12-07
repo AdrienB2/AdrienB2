@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adrien
 - 👀 I’m interested in software development & cybersecurity
-- 🌱 I’m currently learning Computer Science at EPFL
+- 🌱 I’m currently learning Computer Science at [EPFL](https://www.epfl.ch/)
 - 📫 [adrien.barmaz@epfl.ch](mailto:adrien.barmaz@epfl.ch)
 - 💻 [www.adrien-dev.ch](https://adrien-dev.ch)
 
